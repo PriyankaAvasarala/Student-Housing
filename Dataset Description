@@ -1,0 +1,17 @@
+
+The data is collected through various methods, such as online surveys, and inputs are collected by doing surveys on-campus with domestic as well as international students. 
+The student housing dataset includes data on different types of housing units, such as apartments, dormitories, and houses. The data could include information about the mode of transportation  from the housing to the nearest college campus. The dataset also includes information on the number of bedrooms and bathrooms in each unit, the availability of parking, laundry facilities, and other amenities.
+Additionally, the dataset includes information about challenges faced in the apartment, lease period, living expenses, and the campus to which students belong.
+There are 194 rows and 11 columns in it. We chose the most significant components and cleaned them up so that they could be utilized by machine learning applications because there were numerous factors that either directly or indirectly impact heart disease in our dataset.
+Data Attributes and Column Data Types
+●	Apartment Names:  It covers information about both on- and off-campus student housing in Tempe. It is a Categorical data type attribute. 
+●	Rent: It consists of data regarding apartment rents per period. It is a Ratio data type attribute.
+●	Campus: It defines the campus name to which the student belongs. It is a Categorical Attribute. The ASU campuses considered are Tempe, Polytechnic, Downtown and West.
+●	Amenities: It includes information about the amenities that are currently offered by the housing, such as a gym, jacuzzi, patio, swimming pool, clubhouse, etc. It is a Categorical data type attribute.
+●	Preferable Apartment: It displays the apartment which is most preferred by students. It is an Ordinal data type attribute.
+●	Challenges: It consists of numerous issues that the students in their current residence are having. It is a Categorical data type attribute.
+●	Priorities: It offers information about the priorities of students as determined by their choices of apartments. It is an Ordinal data type attribute.
+●	Mode of Transportation: It offers information about the priorities of students as determined by their choices of apartments. The mode of transportation can be Bus, E-scooter, Car, Cycle, Metro, Walk, etc. It is a Categorical data type attribute.
+●	Lease Period: It includes information on the number of months the lease is valid for. It is a Ratio data type attribute.
+●	Kind of Apartment: It includes information about how many bedrooms and bathrooms each residence offers. It can be either 1B1B, 2B1B, 2B2B, 3B2B, Studio, Dorms, etc. It is a Categorical data type attribute.
+●	Living Expenses: It offers information about average living costs apart from rent such as money spent on Electricity, Wi-Fi, Utilities, etc.
